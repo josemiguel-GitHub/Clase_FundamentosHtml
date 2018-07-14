@@ -1,0 +1,11 @@
+Atributos de input
+1.name
+2.id
+3.disable
+4.readonly
+5.maxlength
+6.max
+7.min
+8.value
+9.step
+10.placeholder
